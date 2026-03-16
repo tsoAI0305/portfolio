@@ -8,6 +8,11 @@
 
 ## 🚀 Featured Projects
 
+| Project | Live Demonstration | Key Technologies |
+| :--- | :--- | :--- |
+| **AI Nutrition Navigator** | [![Nutrition Demo](https://img.youtube.com/vi/Qv3KjP5daQk/mqdefault.jpg)](https://youtu.be/Qv3KjP5daQk) | n8n, Groq LLM, Docker, Supabase |
+| **Soccer Prediction System** | [![Soccer Demo](https://img.youtube.com/vi/797D-fbIe20/mqdefault.jpg)](https://youtu.be/797D-fbIe20) | Python, Machine Learning, Scikit-learn |
+
 ### 1. ⚽ AI Football Prediction System
 
 **AI-powered football match prediction combining ML models and Groq Llama 3.3 70B**
@@ -45,6 +50,7 @@
 [View Project →](https://github.com/tsoAI0305/nutrition-navigator-n8n)
 
 ---
+
 
 ## 💼 Technical Skills
 
